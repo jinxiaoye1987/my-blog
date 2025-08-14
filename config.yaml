@@ -1,4 +1,4 @@
-baseURL: 'https://jinxiaoye1987.github.io/my-blog/'  # GitHub Pages 默认地址
+baseURL: 'https://blog.jxyzll.love/'  # 自定义域名
 languageCode: 'zh-cn'
 title: '我的技术博客'
 theme: 'PaperMod'
