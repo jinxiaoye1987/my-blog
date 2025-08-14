@@ -4,7 +4,10 @@
       "Bash(hugo:*)",
       "Bash(rm:*)",
       "Bash(mkdir:*)",
-      "Bash(chmod:*)"
+      "Bash(chmod:*)",
+      "Bash(nslookup:*)",
+      "Bash(dig:*)",
+      "Bash(./scripts/serve.sh:*)"
     ],
     "deny": [],
     "ask": []
